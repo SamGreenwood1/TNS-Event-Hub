@@ -1,5 +1,5 @@
 ---
-title: "TNS @ CES 2022"
+title: TNS @ CES 2022
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
