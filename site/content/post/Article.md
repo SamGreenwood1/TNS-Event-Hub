@@ -40,3 +40,5 @@ Links to further coverage:
 The EQXX looks really sleek and awesomely futuristic without looking stupid. Something that was mentioned in the presentation that I found really interesting was that they used a game engine (didn't mention which) to design the car. The first thing I thought when I saw the car was "Wow that's not a Tesla, that's what Tesla's should look like considering their futuristic MO".
 
 ![[Pasted image 20220106201552.png]]
+
+test
