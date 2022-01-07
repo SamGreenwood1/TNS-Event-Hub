@@ -1,6 +1,6 @@
 ---
-title: TNS @ CES 2022
-subtitle: Support sustainable farming while enjoying a cup
+title: TNS Event Hub
+subtitle: Welcome to The Tech News Source's Event Hub
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
