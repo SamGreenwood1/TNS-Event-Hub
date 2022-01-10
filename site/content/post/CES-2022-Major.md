@@ -71,14 +71,10 @@ During their event, Nvidia announced two new GPUs (the specs of them are in the 
 This year Samsung made a few announcements but most of it was pretty crappie. The thing they announced that I found most interesting was the Freestyle mobile projector. It is completely wireless, has smart speaker functionality built-in. You can preorder it now for $899 (US Only).  They also announced a few gaming things including a game streaming hub that integrates with platforms including Stadia, GeForce Now & more. Also in gaming, they shoed the Odyssey Ark gaming monitor. They also made a substantial sustainability-related announcement, by 2025 all Samsung mobile devices and TVs will use zero standby power.
 
 Here's a list of all the smaller IoT related announcements they made:
-<html>
-<ul>
-	<li> New monitors, TVs and, Family Hub fridges will be SmartThings hubs </li>
-	<li> Samsung Home Hub</li>
-	<li> Samsung joins Matter </li>
-	<li> Samsung working with various appliance manufacturers in the Home Connectivity Alliance </li>
-</ul>
-</html>
+	- New monitors, TVs and, Family Hub fridges will be SmartThings hubs </li>
+	- Samsung Home Hub</li>
+	- Samsung joins Matter </li>
+	- Samsung working with various appliance manufacturers in the Home Connectivity Alliance </li>
 
 ### Sony
 Sony's CES presentation was surprisingly non technical, after announcing their financial results, they talked (a lot) about their movies. Once they got into tech, they announced the PSVR 2 and that the next Horizon game will be a PSVR 2 exclusive. They also showed a concept car that has a PlayStation built-in. 
