@@ -15,7 +15,7 @@ Welcome to 2022; I plan to do my best to publish articles on this site more ofte
 Table Of Contents
 
 1. [[#Computer Stuff|Computer Stuff]]
-	1. [[#AMD|AMD]]
+	1. [AMD](AMD)
 	2. [[#Asus|Asus]]
 	3.  [[#Intel|Intel]]
 	4. [[#Lenovo|Lenovo]]
