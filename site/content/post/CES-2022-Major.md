@@ -45,8 +45,6 @@ Intel announced new CPUs; they are closer to being competitive with AMD. But the
   <div class="desc">Arc GPU OEMs</div>
 </div>
 
-<!-- <link rel="Intel Inside" sizes="180x180" href="\img\Intel Inside.png"> -->
-
 Links to further coverage: 
 [Press Release](https://www.intel.com/content/www/us/en/newsroom/news/intel-ces-2022-computing-news.html#gs.ljvh8j)
 
@@ -97,24 +95,3 @@ The EQXX looks really sleek and awesomely futuristic without looking stupid. Som
 
 ### GM
 
-<style>
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-}
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-</style>
