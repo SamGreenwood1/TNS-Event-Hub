@@ -1,11 +1,7 @@
 ---
 title: "CES 2022: Major Announcements"
-date: 2022-01-08T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-# image: /img/blog-chemex.jpg
+date: 2022-01-09T15:04:10.000Z
+author: Sam Greenwood
 ---
 
 *I'm still working on this article so there *
