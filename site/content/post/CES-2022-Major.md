@@ -8,7 +8,7 @@ author: Sam Greenwood
 
 Welcome to 2022; I plan to do my best to publish articles on this site more often. First off, as with every year, let's start with CES. This year as you can see, I'm doing it a little differently; this article will focus on (summarize) announcements that all the major tech companies made. I plan to write a This Week In Tech article covering things from outside CES (if I have time) and maybe later this week ill write an article about the best things form CES.
 
-Table Of Contents
+<!--- Table Of Contents
 
 1. [[#Computer Stuff|Computer Stuff]]
 	1. [AMD](#AMD)
@@ -20,8 +20,7 @@ Table Of Contents
 2. [[#Cars|Cars]]
 	1. [[#Mercedes Vision EQXX Concept Car Unveil|Mercedes Vision EQXX Concept Car Unveil]]
 	2. [[#GM|GM]]
-
-
+--->
 ## Computer Stuff 
 ### AMD
 At their CES presser, AMD talked about 6000 Series mobile CPUs, GPUs and updates on Ryzen Gen 4; I'm not qualified to comment on this, so here are some links:
