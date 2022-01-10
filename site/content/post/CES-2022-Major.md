@@ -1,19 +1,33 @@
----
-title: "CES 2022: Major Announcements"
-date: 2022-01-08T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /img/blog-chemex.jpg
----
-Welcome to 2022, I plan to do my best to publish articles on this site more often. First off, as with every year, let's start with CES. This year as you can see I'm doing it a little differently, this article will focus on (summarize) announcements that all the major tech companies made. I plan to also cover Samsung's announcements in a more detailed article (because I'm most knowledgeable in those topics) and also an article covering cool things from other exhibitors. Additionally, I plan to write a This Week In Tech article covering things from outside CES (if I have time).
+*I'm still working on this article so there *
 
-### Sony
-At CES this year Sony announced various things including the PlayStation VR 2. 
+Welcome to 2022; I plan to do my best to publish articles on this site more often. First off, as with every year, let's start with CES. This year as you can see, I'm doing it a little differently; this article will focus on (summarize) announcements that all the major tech companies made. I plan to write a This Week In Tech article covering things from outside CES (if I have time) and maybe later this week ill write an article about the best things form CES.
+
+Table Of Contents
+
+1. [[#Computer Stuff|Computer Stuff]]
+	1. [[#AMD|AMD]]
+	2. [[#Asus|Asus]]
+	3.  [[#Intel|Intel]]
+	4. [[#Lenovo|Lenovo]]
+	5. [[#Samsung|Samsung]]
+	6. [[#Sony|Sony]]
+1. [[#Cars|Cars]]
+	1. [[#Mercedes Vision EQXX Concept Car Unveil|Mercedes Vision EQXX Concept Car Unveil]]
+	1. [[#GM|GM]]
+
+
+## Computer Stuff 
+### AMD
+At their CES presser, AMD talked about 6000 Series mobile CPUs, GPUs and updates on Ryzen Gen 4; I'm not qualified to comment on this, so here are some links:
+- 
+
+### Asus
+During their events (they hold 2, one for ROG and one for everything else), Asus announced updates to their entire lineup, including Zephyrus and Flow models getting 16:10 displays. They also said that the Zephyrus G14 (and possibly other Zephyrus models) are getting a new display technology (Called the Nebula Display) with complete coverage of the DCIP3 colour space and a high refresh rate, adaptive sync and, Dolby Vision. They also announced a spec bump to the *Zephyrus Pro Duo*: it gets DDR5 memory and a MiniLED variant of that new Nebula Display.
+
+At event #2 Asus spent most of the time announcing spec bumps to the rest of their non-gaming lineup, The one thing that really caught my attention was the *ZenBook Fold* after Lenovo started selling a similar device ([that I liked](https://thetechnewssource.com/2021/03/05/thinkpad-x1-fold-review/)) last year. It seems like Asus's will be better though, it'll have a bigger screen (17-inches compared to I think 13) Intel 12th Gen graphics, Dolby (Vision & Atmos) and Thunderbolt 4. It's planned to launch later this year but no exact date or pricing as of yet.
 
 ### Intel
-During their keynote, Intel announced new CPUs, they are closer to being competitive with AMD. But the big announcement was Intel's first discrete GP U *Arc*. Arc will have X<sup>e</sup>SS Super Sampling and shared memory with integrated graphics in GPUs (like AMDs Smart Shift Max). Intel Arc GPUs will launch sometime this quarter (Q1 2022).
+Intel announced new CPUs; they are closer to being competitive with AMD. But the big announcement was Intel's first discrete GP U *Arc*. Arc will have X<sup>e</sup>SS Super Sampling and shared memory with integrated graphics in GPUs (like AMDs Smart Shift Max). Intel Arc GPUs will launch sometime this quarter (Q1 2022).
 
 ![[Pasted image 20220106134038.png | Manufacturers who will release devices with Arc GPUs at launch]]
 
@@ -27,18 +41,33 @@ Links to further coverage:
 | | [PC Perspective](https://pcper.com/2022/01/ces-2022-12th-gen-intel-core-h-series-processors/) |
 | [Linus Tech Tips](https://youtu.be/hmm6O25BOSg) || 
 
-### AMD
-
-
-### Asus
-
-
 ### Lenovo
-At CES Lenovo announced their usual slate of spec upgrades. But they showed off some new products also, the ThinkPad Z Series which has Ryzen Pro 6000 chips and is made from recycled materials. But the big announcement was the dual-screen *ThinkBook Plus Gen 3*, unlike Asus's dual-screen laptops the 2<sup>nd</sup> screen is next to the keyboard not above it. 
+At CES, Lenovo announced their usual slate of spec upgrades. But they showed off some new products, the ThinkPad Z Series, which has Ryzen Pro 6000 chips and is made from recycled materials. But the big announcement was the dual-screen *ThinkBook Plus Gen 3*; unlike Asus's dual-screen laptops, the 2<sup>nd</sup> screen is next to the keyboard, not above it. 
 
 Links to further coverage:
 [Press Release about Z Series](https://news.lenovo.com/pressroom/press-releases/thinkpad-z-series-new-look-recycled-materials/)
 [Press Release about *ThinkBook Plus Gen 3* (includes all other announcements also)](https://news.lenovo.com/pressroom/press-releases/innovations-and-solutions-at-ces-power-hybrid-life/)
+
+Nvidia
+
+
+| | RTX 3050 |  3080 Ti | 
+| ---- |  ---- | ------ |
+| VRAM | 8GB GDDR6 | 16GB GDDR6 |
+| Availability | Jan 27 |Feb 1|
+| Price | $249 | $2499 |
+
+### Samsung
+This year Samsung made a few announcements but most of it was pretty crappie. The thing they announced that I found most interesting was the Freestyle mobile projector. It is completely wireless, has smart speaker functionality built-in. You can preorder it now for $899 (US Only).  They also announced a few gaming things including a game streaming hub that integrates with platforms including Stadia, GeForce Now & more. Also in gaming, they shoed the Odyssey Ark gaming monitor. They also made a substantial sustainability-related announcement, by 2025 all Samsung mobile devices and TVs will use zero standby power.
+
+Here's a list of all the smaller IoT related announcements they made:
+	- New monitors, TVs and, Family Hub fridges will be SmartThings hubs
+	- Samsung Home Hub
+	- Samsung joins Matter
+	- Samsung working with various appliance manufacturers in the Home Connectivity Alliance
+
+### Sony
+At CES this year Sony announced various things including the PlayStation VR 2. 
 
 ## Cars
 
@@ -48,4 +77,5 @@ The EQXX looks really sleek and awesomely futuristic without looking stupid. Som
 
 ![[Pasted image 20220106201552.png]]
 
-test
+### GM
+
