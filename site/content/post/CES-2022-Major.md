@@ -2,6 +2,7 @@
 title: "CES 2022: Major Announcements"
 date: 2022-01-09T15:04:10.000Z
 author: Sam Greenwood
+description: Here's a roundup of all the major announcments from CES
 image: https://www.internationalboost.com/wp-content/uploads/2020/07/Logo-CES-2021.png
 ---
 
