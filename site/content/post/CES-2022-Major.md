@@ -56,6 +56,7 @@ At CES, Lenovo announced their usual slate of spec upgrades. But they showed off
 
 Links to further coverage:
 [Press Release about Z Series](https://news.lenovo.com/pressroom/press-releases/thinkpad-z-series-new-look-recycled-materials/)
+
 [Press Release about *ThinkBook Plus Gen 3* (includes all other announcements also)](https://news.lenovo.com/pressroom/press-releases/innovations-and-solutions-at-ces-power-hybrid-life/)
 
 Nvidia
