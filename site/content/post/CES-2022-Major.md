@@ -38,21 +38,35 @@ At event #2 Asus spent most of the time announcing spec bumps to the rest of the
 ### Intel
 Intel announced new CPUs; they are closer to being competitive with AMD. But the big announcement was Intel's first discrete GP U *Arc*. Arc will have X<sup>e</sup>SS Super Sampling and shared memory with integrated graphics in GPUs (like AMDs Smart Shift Max). Intel Arc GPUs will launch sometime this quarter (Q1 2022).
 
-<div class="media-item media-image">
-           <figure class="blade-image">
-                                <span data-picture="" data-alt="">
-            <span data-src="/content/dam/www/public/us/en/newsroom/posts/galleries/2022-ces/intel-arc-graphics-design-wins-16x9.jpg.rendition.intel.web.480.270.jpg" data-intrinsic=""></span>
-            <!--[if lte IE 9]>
-            <span data-src="/content/dam/www/public/us/en/newsroom/posts/galleries/2022-ces/intel-arc-graphics-design-wins-16x9.jpg.rendition.intel.web.1920.1080.jpg"></span>
-            <![endif]-->
-                    <span data-src="/content/dam/www/public/us/en/newsroom/posts/galleries/2022-ces/intel-arc-graphics-design-wins-16x9.jpg.rendition.intel.web.864.486.jpg" data-media="(min-width: 480px)" data-intrinsic=""></span>
-            <span data-src="/content/dam/www/public/us/en/newsroom/posts/galleries/2022-ces/intel-arc-graphics-design-wins-16x9.jpg.rendition.intel.web.1280.720.jpg" data-media="(min-width: 992px)"></span>
-            <span data-src="/content/dam/www/public/us/en/newsroom/posts/galleries/2022-ces/intel-arc-graphics-design-wins-16x9.jpg.rendition.intel.web.1648.927.jpg" data-media="(min-width: 1200px)"><img alt="" src="/content/dam/www/public/us/en/newsroom/posts/galleries/2022-ces/intel-arc-graphics-design-wins-16x9.jpg.rendition.intel.web.1648.927.jpg"></span>
-            <span data-src="/content/dam/www/public/us/en/newsroom/posts/galleries/2022-ces/intel-arc-graphics-design-wins-16x9.jpg.rendition.intel.web.1920.1080.jpg" data-media=(min-width: 1650px)"></span>
-<span                                            
-                                                    </figure>
-                                                        <div class="caption"><p>Intel announced more than 50 mobile and desktop graphics design wins using Intel Arc graphics. (Credit: Intel Corporation)</p>
-</div>                            
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.intel.com/content/dam/www/public/us/en/newsroom/posts/galleries/2022-ces/intel-arc-graphics-design-wins-16x9.jpg.rendition.intel.web.1920.1080.jpg">
+    <img src="https://www.intel.com/content/dam/www/public/us/en/newsroom/posts/galleries/2022-ces/intel-arc-graphics-design-wins-16x9.jpg.rendition.intel.web.1920.1080.jpg" alt="Arc GPU OEMs" width="600" height="400">
+  </a>
+  <div class="desc">Arc GPU OEMs</div>
 </div>
 
 <link rel="Intel Inside" sizes="180x180" href="\img\Intel Inside.png">
