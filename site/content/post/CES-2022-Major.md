@@ -4,7 +4,7 @@ date: 2022-01-09T15:04:10.000Z
 author: Sam Greenwood
 ---
 
-*I'm still working on this article so there Rev 4*
+*I'm still working on this article so there Rev 5*
 
 Welcome to 2022; I plan to do my best to publish articles on this site more often. First off, as with every year, let's start with CES. This year as you can see, I'm doing it a little differently; this article will focus on (summarize) announcements that all the major tech companies made. I plan to write a This Week In Tech article covering things from outside CES (if I have time) and maybe later this week ill write an article about the best things form CES.
 
