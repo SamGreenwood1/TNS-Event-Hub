@@ -1,7 +1,8 @@
 ---
-title: "CES 2022: Major Announcements Rev 1"
+title: "CES 2022: Major Announcements"
 date: 2022-01-09T15:04:10.000Z
 author: Sam Greenwood
+image: https://www.internationalboost.com/wp-content/uploads/2020/07/Logo-CES-2021.png
 ---
 
 Welcome to 2022; I plan to do my best to publish articles on this site more often. First off, as with every year, let's start with CES. This year as you can see, I'm doing it a little differently; this article will focus on (summarize) announcements that all the major tech companies made. I plan to write a This Week In Tech article covering things from outside CES (if I have time) and maybe later this week ill write an article about the best things form CES.
