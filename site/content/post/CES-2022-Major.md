@@ -38,7 +38,6 @@ At event #2 Asus spent most of the time announcing spec bumps to the rest of the
 ### Intel
 Intel announced new CPUs; they are closer to being competitive with AMD. But the big announcement was Intel's first discrete GPU *Arc*. Arc will have X<sup>e</sup>SS Super Sampling and shared memory with integrated graphics in GPUs (like AMDs Smart Shift Max). Intel Arc GPUs will launch sometime this quarter (Q1 2022).
 
-
 <style>
 div.gallery {
   margin: 5px;
@@ -62,9 +61,7 @@ div.desc {
 </style>
 
 <div class="gallery">
-  <a target="_blank" href="https://www.intel.com/content/dam/www/public/us/en/newsroom/posts/galleries/2022-ces/intel-arc-graphics-design-wins-16x9.jpg.rendition.intel.web.1920.1080.jpg">
     <img src="https://www.intel.com/content/dam/www/public/us/en/newsroom/posts/galleries/2022-ces/intel-arc-graphics-design-wins-16x9.jpg.rendition.intel.web.1920.1080.jpg" alt="Cinque Terre" width="600" height="400">
-  </a>
   <div class="desc">Arc GPU OENs</div>
 </div>
 
