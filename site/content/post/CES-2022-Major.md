@@ -25,7 +25,11 @@ Table Of Contents
 ## Computer Stuff 
 ### AMD
 At their CES presser, AMD talked about 6000 Series mobile CPUs, GPUs and updates on Ryzen Gen 4; I'm not qualified to comment on this, so here are some links:
-- 
+| CPUs | GPUs |
+| --- | --- |
+| [pcper.com](https://pcper.com/2022/01/ces-2022-amd-launching-ryzen-6000-series-mobile-processors/) | [RX 6500 - AnandTech](https://www.anandtech.com/show/17161/amd-reveals-radeon-rx-6500-xt-navi-24-lands-for-lowend-desktops-on-january-19th) |   
+| [CPUs - AnandTech](https://www.anandtech.com/show/17152/amd-cpus-in-2022-ces) [AM5 - AnandTech](https://www.anandtech.com/show/17192/ces-2022-amds-nextgen-am5-platform-to-have-long-term-support) | [Ryzen 7 w/ V-Cache - pcper](https://www.anandtech.com/show/17192/ces-2022-amds-nextgen-am5-platform-to-have-long-term-support) | 
+
 
 ### Asus
 During their events (they hold 2, one for ROG and one for everything else), Asus announced updates to their entire lineup, including Zephyrus and Flow models getting 16:10 displays. They also said that the Zephyrus G14 (and possibly other Zephyrus models) are getting a new display technology (Called the Nebula Display) with complete coverage of the DCIP3 colour space and a high refresh rate, adaptive sync and, Dolby Vision. They also announced a spec bump to the *Zephyrus Pro Duo*: it gets DDR5 memory and a MiniLED variant of that new Nebula Display.
