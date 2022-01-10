@@ -36,31 +36,7 @@ During their events (they hold 2, one for ROG and one for everything else), Asus
 At event #2 Asus spent most of the time announcing spec bumps to the rest of their non-gaming lineup, The one thing that really caught my attention was the *ZenBook Fold* after Lenovo started selling a similar device ([that I liked](https://thetechnewssource.com/2021/03/05/thinkpad-x1-fold-review/)) last year. It seems like Asus's will be better though, it'll have a bigger screen (17-inches compared to I think 13) Intel 12th Gen graphics, Dolby (Vision & Atmos) and Thunderbolt 4. It's planned to launch later this year but no exact date or pricing as of yet.
 
 ### Intel
-Intel announced new CPUs; they are closer to being competitive with AMD. But the big announcement was Intel's first discrete GP U *Arc*. Arc will have X<sup>e</sup>SS Super Sampling and shared memory with integrated graphics in GPUs (like AMDs Smart Shift Max). Intel Arc GPUs will launch sometime this quarter (Q1 2022).
-
-<style>
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-}
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-</style>
-</head>
-<body>
+Intel announced new CPUs; they are closer to being competitive with AMD. But the big announcement was Intel's first discrete GPU *Arc*. Arc will have X<sup>e</sup>SS Super Sampling and shared memory with integrated graphics in GPUs (like AMDs Smart Shift Max). Intel Arc GPUs will launch sometime this quarter (Q1 2022).
 
 <div class="gallery">
   <a target="_blank" href="https://www.intel.com/content/dam/www/public/us/en/newsroom/posts/galleries/2022-ces/intel-arc-graphics-design-wins-16x9.jpg.rendition.intel.web.1920.1080.jpg">
@@ -69,7 +45,7 @@ div.desc {
   <div class="desc">Arc GPU OEMs</div>
 </div>
 
-<link rel="Intel Inside" sizes="180x180" href="\img\Intel Inside.png">
+<!-- <link rel="Intel Inside" sizes="180x180" href="\img\Intel Inside.png"> -->
 
 Links to further coverage: 
 [Press Release](https://www.intel.com/content/www/us/en/newsroom/news/intel-ces-2022-computing-news.html#gs.ljvh8j)
@@ -121,3 +97,24 @@ The EQXX looks really sleek and awesomely futuristic without looking stupid. Som
 
 ### GM
 
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
