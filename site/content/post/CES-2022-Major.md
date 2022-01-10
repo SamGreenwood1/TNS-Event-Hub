@@ -4,7 +4,7 @@ date: 2022-01-09T15:04:10.000Z
 author: Sam Greenwood
 ---
 
-*I'm still working on this article so there Rev 5*
+*I'm still working on this article so there Rev 6*
 
 Welcome to 2022; I plan to do my best to publish articles on this site more often. First off, as with every year, let's start with CES. This year as you can see, I'm doing it a little differently; this article will focus on (summarize) announcements that all the major tech companies made. I plan to write a This Week In Tech article covering things from outside CES (if I have time) and maybe later this week ill write an article about the best things form CES.
 
@@ -38,7 +38,7 @@ At event #2 Asus spent most of the time announcing spec bumps to the rest of the
 ### Intel
 Intel announced new CPUs; they are closer to being competitive with AMD. But the big announcement was Intel's first discrete GPU *Arc*. Arc will have X<sup>e</sup>SS Super Sampling and shared memory with integrated graphics in GPUs (like AMDs Smart Shift Max). Intel Arc GPUs will launch sometime this quarter (Q1 2022).
 
-<img src="\img\Intel Inside.png" alt="" class="gallery" style="width: 240px">
+![Intel Inside](https://www.intel.com/content/dam/www/public/us/en/newsroom/posts/galleries/2022-ces/intel-arc-graphics-design-wins-16x9.jpg.rendition.intel.web.1920.1080.jpg)
 
 Links to further coverage: 
 [Press Release](https://www.intel.com/content/www/us/en/newsroom/news/intel-ces-2022-computing-news.html#gs.ljvh8j)
@@ -85,7 +85,7 @@ Sony's CES presentation was surprisingly non technical, after announcing their f
 
 The EQXX looks really sleek and awesomely futuristic without looking stupid. Something that was mentioned in the presentation that I found really interesting was that they used a game engine (didn't mention which) to design the car. The first thing I thought when I saw the car was "Wow that's not a Tesla, that's what Tesla's should look like considering their futuristic MO".
 
-![[Pasted image 20220106201552.png]]
+![Vision EQXX](https://media.daimler.com/marsMediaSite/Thumbnail?oid=52282742&version=-1&thumbnailVersion=3&mediaTypeId=3)
 
 ### GM
 
