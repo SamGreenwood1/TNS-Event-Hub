@@ -1,3 +1,13 @@
+---
+title: "CES 2022: Major Announcements"
+date: 2022-01-08T15:04:10.000Z
+description: >-
+  Brewing with a Chemex probably seems like a complicated, time-consuming
+  ordeal, but once you get used to the process, it becomes a soothing ritual
+  that's worth the effort every time.
+image: /img/blog-chemex.jpg
+---
+
 *I'm still working on this article so there *
 
 Welcome to 2022; I plan to do my best to publish articles on this site more often. First off, as with every year, let's start with CES. This year as you can see, I'm doing it a little differently; this article will focus on (summarize) announcements that all the major tech companies made. I plan to write a This Week In Tech article covering things from outside CES (if I have time) and maybe later this week ill write an article about the best things form CES.
@@ -11,9 +21,9 @@ Table Of Contents
 	4. [[#Lenovo|Lenovo]]
 	5. [[#Samsung|Samsung]]
 	6. [[#Sony|Sony]]
-1. [[#Cars|Cars]]
+2. [[#Cars|Cars]]
 	1. [[#Mercedes Vision EQXX Concept Car Unveil|Mercedes Vision EQXX Concept Car Unveil]]
-	1. [[#GM|GM]]
+	2. [[#GM|GM]]
 
 
 ## Computer Stuff 
