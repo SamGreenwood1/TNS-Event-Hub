@@ -59,14 +59,14 @@ Links to further coverage:
 [Press Release about *ThinkBook Plus Gen 3* (includes all other announcements also)](https://news.lenovo.com/pressroom/press-releases/innovations-and-solutions-at-ces-power-hybrid-life/)
 
 Nvidia
-
+During their event, Nvidia announced two new GPUs (the specs of them are in the table below) and a few things. They also announced an integrated game design suite called Nvidia Studio which will integrate with various programs that game designers already use and can sync with the cloud between those apps. Like every year Nvidia also talked about AI and autonomous cars but all of that went way over my head. 
 
 | | RTX 3050 |  3080 Ti | 
 | ---- |  ---- | ------ |
 | VRAM | 8GB GDDR6 | 16GB GDDR6 |
 | Availability | Jan 27 |Feb 1|
 | Price | $249 | $2499 |
-
+<br> 
 ### Samsung
 This year Samsung made a few announcements but most of it was pretty crappie. The thing they announced that I found most interesting was the Freestyle mobile projector. It is completely wireless, has smart speaker functionality built-in. You can preorder it now for $899 (US Only).  They also announced a few gaming things including a game streaming hub that integrates with platforms including Stadia, GeForce Now & more. Also in gaming, they shoed the Odyssey Ark gaming monitor. They also made a substantial sustainability-related announcement, by 2025 all Samsung mobile devices and TVs will use zero standby power.
 
@@ -77,7 +77,7 @@ Here's a list of all the smaller IoT related announcements they made:
 	- Samsung working with various appliance manufacturers in the Home Connectivity Alliance
 
 ### Sony
-At CES this year Sony announced various things including the PlayStation VR 2. 
+Sony's CES presentation was surprisingly non technical, after announcing their financial results, they talked (a lot) about their movies. Once they got into tech, they announced the PSVR 2 and that the next Horizon game will be a PSVR 2 exclusive. They also showed a concept car that has a PlayStation built-in. 
 
 ## Cars
 
