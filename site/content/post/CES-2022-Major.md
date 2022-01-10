@@ -92,7 +92,7 @@ Links to further coverage:
 
 [Press Release about *ThinkBook Plus Gen 3* (includes all other announcements also)](https://news.lenovo.com/pressroom/press-releases/innovations-and-solutions-at-ces-power-hybrid-life/)
 
-Nvidia
+## Nvidia
 During their event, Nvidia announced two new GPUs (the specs of them are in the table below) and a few things. They also announced an integrated game design suite called Nvidia Studio which will integrate with various programs that game designers already use and can sync with the cloud between those apps. Like every year Nvidia also talked about AI and autonomous cars but all of that went way over my head. 
 
 | | RTX 3050 |  3080 Ti | 
