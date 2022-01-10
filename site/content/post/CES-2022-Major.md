@@ -1,5 +1,5 @@
 ---
-title: "CES 2022: Major Announcements"
+title: "CES 2022: Major Announcements Rev 1"
 date: 2022-01-09T15:04:10.000Z
 author: Sam Greenwood
 ---
