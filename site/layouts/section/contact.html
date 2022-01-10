@@ -1,24 +1,19 @@
-{{ define "main" }}
+<div class="bg-off-white pv4">
+	<div class="ph3 mw7 center">
 
-<div class="ph3 bg-off-white">
-	<div class="center mw6 pv3">
+		<h2 class="f2 b lh-title mb3">Latest stories</h2>
 
-		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
-
-		{{ .Content }}
-
-		<div class="flex-ns mb3">
-	        	{{ range .Params.contact_entries }}
-				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
+		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+			{{ range first 4 (where .Data.Pages "Type" "post") }}
+				<div class="ph1-ns w-50-ns flex">
+					{{ .Render "li" }}
 				</div>
 			{{ end }}
 		</div>
 
-		{{ partial "contact-form" . }}
+		<div class="tc">
+			<a href="/post" class="btn raise">Read more</a>
+		</div>
 
 	</div>
 </div>
-
-{{ end }}
