@@ -38,7 +38,7 @@ At event #2 Asus spent most of the time announcing spec bumps to the rest of the
 ### Intel
 Intel announced new CPUs; they are closer to being competitive with AMD. But the big announcement was Intel's first discrete GP U *Arc*. Arc will have X<sup>e</sup>SS Super Sampling and shared memory with integrated graphics in GPUs (like AMDs Smart Shift Max). Intel Arc GPUs will launch sometime this quarter (Q1 2022).
 
-![[Pasted image 20220106134038.png | Manufacturers who will release devices with Arc GPUs at launch]]
+<link rel="Intel Inside" sizes="180x180" href="\img\Intel Inside.png">
 
 Links to further coverage: 
 [Press Release](https://www.intel.com/content/www/us/en/newsroom/news/intel-ces-2022-computing-news.html#gs.ljvh8j)
