@@ -27,7 +27,7 @@ At their CES presser, AMD talked about 6000 Series mobile CPUs, GPUs and updates
 | CPUs | GPUs |
 | --- | --- |
 | [pcper.com](https://pcper.com/2022/01/ces-2022-amd-launching-ryzen-6000-series-mobile-processors/) | [RX 6500 - AnandTech](https://www.anandtech.com/show/17161/amd-reveals-radeon-rx-6500-xt-navi-24-lands-for-lowend-desktops-on-january-19th) |   
-| [CPUs - AnandTech](https://www.anandtech.com/show/17152/amd-cpus-in-2022-ces) [AM5 - AnandTech](https://www.anandtech.com/show/17192/ces-2022-amds-nextgen-am5-platform-to-have-long-term-support) | [Ryzen 7 w/ V-Cache - pcper](https://www.anandtech.com/show/17192/ces-2022-amds-nextgen-am5-platform-to-have-long-term-support) | 
+| [CPUs - AnandTech](https://www.anandtech.com/show/17152/amd-cpus-in-2022-ces) <br> [AM5 - AnandTech](https://www.anandtech.com/show/17192/ces-2022-amds-nextgen-am5-platform-to-have-long-term-support) | [Ryzen 7 w/ V-Cache - pcper](https://www.anandtech.com/show/17192/ces-2022-amds-nextgen-am5-platform-to-have-long-term-support) | 
 
 
 ### Asus
