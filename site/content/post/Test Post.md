@@ -2,6 +2,7 @@
 title: "Test Post"
 date: 2022-01-09T15:04:10.000Z
 author: Sam Greenwood
+category: e3
 ---
 
 Hello World
