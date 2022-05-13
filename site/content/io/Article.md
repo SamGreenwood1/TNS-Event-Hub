@@ -11,10 +11,6 @@ category: io
 
 This week Google held their I/O Developers Conference. At the conference they announced updated to Android, Search, Assistant, Pixel and, more.
 
-```toc
-title: Table Of Contents
-style: numbers
-```
 ## Minor Announcements from Sundar's Intro
 Here are a bunch of things that Sundar Pichai (Google's CEO) mentioned in his opening address:
 - Google Maps upgrades (20% more buildings worldwide), in Africa (300M buildings mapped) and 2X in India
